@@ -11,7 +11,6 @@ O sistema foi desenvolvido para facilitar o registro e a organização de usuár
 
 Esse projeto contribuiu para o aprendizado sobre armazenamento de informações, validação de dados e desenvolvimento de menus interativos, fortalecendo a lógica de programação e a organização do código.
 
-![imagem_do_projeto](https://github.com/Pereira06z/cadastro_de_pessoas/blob/main/cadastro_de_usuarios.png)
 
 ## Conclusão ✅
 
