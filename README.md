@@ -11,6 +11,8 @@ O sistema foi desenvolvido para facilitar o registro e a organização de usuár
 
 Esse projeto contribuiu para o aprendizado sobre armazenamento de informações, validação de dados e desenvolvimento de menus interativos, fortalecendo a lógica de programação e a organização do código.
 
+![imagem_do_projeto](https://github.com/Pereira06z/cadastro_de_pessoas/blob/main/cadastro_de_usuarios.png)
+
 ## Conclusão ✅
 
 O desenvolvimento do projeto de Cadastro de Usuários foi importante para aprimorar habilidades em Python e compreender melhor o funcionamento de sistemas de gerenciamento de dados. Através dele, foi possível praticar conceitos essenciais da programação, além de desenvolver soluções simples e eficientes para organização de informações. O projeto também contribuiu para melhorar a lógica computacional, a estruturação de código e a resolução de problemas. 🚀🐍
